@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 五事毘婆沙論
+#+DATE: 2015-08-30 20:50:47.389413
+#+PROPERTY: JUAN 0
