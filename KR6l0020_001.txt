@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:47.148894
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:27
 #+TITLE: 五事毘婆沙論
 #+PROPERTY: CBETA_ID T28n1555
 #+PROPERTY: ID KR6l0020
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1555
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0020_T_000-0989a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0020_T_001-0989a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1555[cf.No.1556]¶
-
- 《五事毘婆沙論》卷上¶
+No. 1555 [cf. No. 1556]¶
+《五事毘婆沙論》卷上¶
 ¶
 尊者法救造¶
 三藏法師玄奘奉　詔譯¶
 
-1分別色品
-:PROPERTIES:
-:head: 分別色品第一
-:END:
-¶
+* 分別色品第一¶
 
 #+BEGIN_VERSE
 「　敬禮佛法僧
@@ -33,9 +28,9 @@ No.1555[cf.No.1556]¶
 　當釋能生慧
 <pb:KR6l0020_T_001-0989b>¶
 　滅愚五事論
-　令彼覺開發
+　令彼覺開發」
 #+END_VERSE
-」¶
+¶
 
 尊者世友為益有情製五事論。我今當釋。問¶
 何用釋此五事論耶。答為欲開發深隱義故。¶
@@ -276,6 +271,6 @@ No.1555[cf.No.1556]¶
 樺皮。鼻根極微居鼻頞內。背上面下如雙爪¶
 甲。舌根極微布在舌上形如半月。然於舌中¶
 如毛髮量無舌根微。身根極微遍諸身分。¶
-《五事毘婆沙論》卷上
+《五事毘婆沙論》
 <pb:KR6l0020_T_001-0992a>¶
 
